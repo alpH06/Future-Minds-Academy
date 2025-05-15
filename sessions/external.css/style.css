@@ -1,0 +1,39 @@
+h1 {
+    background-color: blue !important; 
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    background-color: cadetblue;
+}
+
+h2 {
+    width: 200px;
+}
+
+h2 {
+    color: black;
+}
+
+h2 {
+    background-color: red;
+}
+
+h1 {
+    width: 300px;
+}
+
+h3 {
+    background-color: blue;
+}
+
+h3 {
+    color: white;
+}
+
+h3 {
+    width: 400px;
+}
